@@ -9,7 +9,7 @@ Filters are commands that take input from stdin, process it, and then output the
 # **Learning Objectives**
 At the end of this project, I was expected to be able to explain to anyone, without the help of Google and know:
 
-## ***Shell, I/O Redirection***
+## **Shell, I/O Redirection**
 * What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 * How to redirect standard output to a file
 * How to get standard input from a file instead of the keyboard
