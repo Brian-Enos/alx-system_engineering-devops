@@ -41,7 +41,7 @@ At the end of this project, I was expected to be able to explain to anyone, with
 * It was mandatory that my scripts be executable. To make a file executable, use the chmod command: ***chmod u+x file***.
 
 ## **Resources**
-* [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
+* [Shell I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
 * [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
 
 ## **Important Commands Here**
