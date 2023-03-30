@@ -1,4 +1,4 @@
-# **Shell Variables and Expnasions**
+# **Shell Variables and Expansions**
 
 ## **Introduction**
 Shell variables are used to store values that can be referenced by commands or scripts in a shell session. They can be defined and assigned values using the ***"="*** operator.
